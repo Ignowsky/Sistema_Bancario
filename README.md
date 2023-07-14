@@ -29,16 +29,11 @@ Certifique-se de ter o Python instalado em sua máquina.
 
 **Ao executar o programa, você será apresentado a um menu com as seguintes opções:**
 
-* [D] Deposito
-* [S] Saque
-* [E] Extrato
-* [Q] Quit
+* [D] Deposito - Para fazer um depósito, digite "D" e informe o valor que deseja depositar quando solicitado.
+* [S] Saque - Para fazer um saque, digite "S" e informe o valor que deseja sacar quando solicitado.
+* [E] Extrato - Para visualizar o extrato da conta, digite "E".
+* [Q] Quit - Para encerrar o programa, digite "Q".
 
-
-- Para fazer um depósito, digite "D" e informe o valor que deseja depositar quando solicitado.
-- Para fazer um saque, digite "S" e informe o valor que deseja sacar quando solicitado.
-- Para visualizar o extrato da conta, digite "E".
-- Para encerrar o programa, digite "Q".
 
 ## Observações
 
